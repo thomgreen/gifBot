@@ -9,6 +9,10 @@ html *:focus, html *:before:focus, html *:after:focus {
   outline: inherit;
 }
 
+body > p {
+    text-align: center;
+}
+
 .title {
   text-align: center;
   font-weight: 200;
